@@ -1,7 +1,6 @@
 {
   "name": "pomodoro-25-5-clock",
   "version": "0.1.0",
-  "homepage": "https://danbloch21.github.io/pomodoro-25-5-clock",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
