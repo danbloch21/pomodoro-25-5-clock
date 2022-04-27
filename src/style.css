@@ -1,7 +1,21 @@
+body{
+    color: whitesmoke;
+    background-color: #333;
+}
+
+.dual-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 900px;
+    margin: auto;
+    justify-items: center;
+    align-items: center;
+}
+
 .time-sets{
     
     display: grid;
-    grid-template-columns: 50px 500px 50px;
+    grid-template-columns: 50px 200px 50px;
     justify-items: center;
-    align-items: right;
+    align-items: center;
 }
