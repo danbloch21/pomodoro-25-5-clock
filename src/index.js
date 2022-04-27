@@ -9,7 +9,7 @@ function App() {
   const [timerOn, setTimerOn] = React.useState(false);
   const [onBreak, setOnBreak] = React.useState(false);
   const [breakAudio, setBreakAudio] = React.useState(
-    new Audio("http://tones.fuzzup.net/mp3/44.mp3")
+    new Audio("http://www.loyalhannadockyard.com/PLAY%20JJC-M107-1.wav")
   );
 
   const playBreakSound = () => {
