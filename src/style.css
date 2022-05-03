@@ -5,8 +5,8 @@ body{
 }
 
 .dual-container{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
     width: 900px;
     margin: auto;
     justify-items: center;
