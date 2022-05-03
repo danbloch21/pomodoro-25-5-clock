@@ -1,6 +1,7 @@
 body{
     color: whitesmoke;
     background-color: #333;
+    display: grid;
 }
 
 .dual-container{

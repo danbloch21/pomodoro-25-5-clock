@@ -87,6 +87,7 @@ function App() {
   return (
     <div className="center-align">
       <h1>Pomodoro Clock</h1>
+      <h4>Coded By Dan Bloch</h4>
       <div className="dual-container">
         <Length
           title={"Break Length"}
