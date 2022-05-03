@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pomodoro-25-5-clock/static/css/main.f00b4f62.css",
+    "main.css": "/pomodoro-25-5-clock/static/css/main.6546d778.css",
     "main.js": "/pomodoro-25-5-clock/static/js/main.23d695a3.js",
     "index.html": "/pomodoro-25-5-clock/index.html",
-    "main.f00b4f62.css.map": "/pomodoro-25-5-clock/static/css/main.f00b4f62.css.map",
+    "main.6546d778.css.map": "/pomodoro-25-5-clock/static/css/main.6546d778.css.map",
     "main.23d695a3.js.map": "/pomodoro-25-5-clock/static/js/main.23d695a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f00b4f62.css",
+    "static/css/main.6546d778.css",
     "static/js/main.23d695a3.js"
   ]
 }
